@@ -1,6 +1,6 @@
 # Twitch-Checker
 Simple Twitch User Checker
-![alt text](https://github.com/Soud69/Tellonym-Checker/blob/main/image.png?raw=true)
+![alt text](https://github.com/Soud69/Twitch-Checker/blob/main/image.png?raw=true)
 # Credit
 
 Instagaram: https://www.instagram.com/_agf/ <br />
